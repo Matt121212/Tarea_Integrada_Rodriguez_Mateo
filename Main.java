@@ -23,12 +23,12 @@ public class Main {
         System.out.println("Mensaje final: " + vendedor.mensajeDesempeno());*/
 
         Paciente p = new Paciente(
-                "Emely Pérez",
-                "0102030405",
+                "Mateo Lopez",
+                "0978044517",
                 "Premium",
-                45,
+                50,
                 25.50,
-                3,
+                2,
                 4
         );
 
